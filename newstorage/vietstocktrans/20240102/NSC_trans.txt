@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NSC",112743,"/Date(1704169661000)/",68800,100,1000,68000000,700,false,1.03
+"NSC",104348,"/Date(1704167027000)/",68000,100,900,61000000,-100,false,-0.15
+"NSC",94451,"/Date(1704163490000)/",68100,800,800,54000000,0,false,0

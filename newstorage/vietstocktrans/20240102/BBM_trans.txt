@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BBM",101237,"/Date(1704165180000)/",12100,1,104,1258700,0,false,0
+"BBM",94504,"/Date(1704163500000)/",12100,100,103,1246600,0,false,0

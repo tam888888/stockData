@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HLB",143004,"/Date(1704180600000)/",345000,1,102,35080000,45000,false,15
+"HLB",134624,"/Date(1704177960000)/",345000,1,101,34790000,45000,false,15
+"HLB",91534,"/Date(1704161760000)/",345000,100,100,34500000,45000,false,15

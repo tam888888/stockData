@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"UDJ",142208,"/Date(1704180120000)/",9200,300,700,6420000,100,false,1.1
+"UDJ",93445,"/Date(1704162900000)/",9100,100,400,3660000,0,true,0
+"UDJ",93240,"/Date(1704162780000)/",9100,100,300,2750000,0,true,0
+"UDJ",92715,"/Date(1704162420000)/",9200,200,200,1840000,100,false,1.1

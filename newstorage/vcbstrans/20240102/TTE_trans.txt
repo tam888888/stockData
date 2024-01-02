@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TTE","13:58:23",10.9,0,200,200,"S"

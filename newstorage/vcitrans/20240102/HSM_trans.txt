@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161682624,"HSM","1704161211","s","500","6400","500","2024-01-02T02:06:53.279Z","2024-01-02T02:06:53.279Z"

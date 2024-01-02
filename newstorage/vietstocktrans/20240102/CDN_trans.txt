@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CDN",130024,"/Date(1704175205000)/",27600,100,900,24750000,0,true,0
+"CDN",93919,"/Date(1704163159000)/",27500,800,800,21990000,-100,false,-0.36

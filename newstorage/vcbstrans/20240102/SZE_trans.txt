@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SZE","14:34:13",11.9,0,1100,1100,

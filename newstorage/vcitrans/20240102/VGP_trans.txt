@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162042908,"VGP","1704179917","b","100","31000","100","2024-01-02T07:18:38.586Z","2024-01-02T07:18:38.586Z"

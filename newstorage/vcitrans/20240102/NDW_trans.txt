@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161683089,"NDW","1704161413","b","100","9100","100","2024-01-02T02:10:15.277Z","2024-01-02T02:10:15.277Z"

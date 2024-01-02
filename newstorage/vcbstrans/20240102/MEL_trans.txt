@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"MEL","09:23:29",6.7,0.3,100,100,

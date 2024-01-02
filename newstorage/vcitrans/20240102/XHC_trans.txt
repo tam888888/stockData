@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162039634,"XHC","1704179834","s","800","25100","800","2024-01-02T07:17:16.554Z","2024-01-02T07:17:16.554Z"

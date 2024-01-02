@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162090285,"IDP","1704182015","s","1000","250000","1000","2024-01-02T07:53:37.546Z","2024-01-02T07:53:37.546Z"

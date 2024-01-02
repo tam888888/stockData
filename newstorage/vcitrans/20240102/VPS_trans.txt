@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161859341,"VPS","1704168177","s","100","10450","0","2024-01-02T04:03:09.395Z","2024-01-02T04:03:09.395Z"

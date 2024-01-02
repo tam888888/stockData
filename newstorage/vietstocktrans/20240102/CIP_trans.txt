@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CIP",93829,"/Date(1704163080000)/",2500,1400,1422,3552800,-300,true,-10.71

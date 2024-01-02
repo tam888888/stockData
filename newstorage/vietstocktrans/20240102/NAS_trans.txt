@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NAS",92313,"/Date(1704162180000)/",28900,100,100,2890000,-100,false,-0.34

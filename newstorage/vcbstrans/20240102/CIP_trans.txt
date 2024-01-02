@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CIP","09:38:29",2.5,-0.3,1400,1400,

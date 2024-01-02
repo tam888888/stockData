@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TXM","09:18:58",4.6,0,100,100,

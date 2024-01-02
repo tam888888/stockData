@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161684906,"HLB","1704161734","b","100","345000","100","2024-01-02T02:15:36.312Z","2024-01-02T02:15:36.312Z"

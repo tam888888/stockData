@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162089290,"VHD","1704180975","unknown","700","12500","700","2024-01-02T07:36:17.534Z","2024-01-02T07:36:17.534Z"

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DNA",145158,"/Date(1704181920000)/",24000,100,100,2400000,0,false,0

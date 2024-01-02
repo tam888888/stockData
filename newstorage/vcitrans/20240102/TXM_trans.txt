@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161691122,"TXM","1704161937","b","100","4600","100","2024-01-02T02:19:00.302Z","2024-01-02T02:19:00.302Z"

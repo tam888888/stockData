@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DNL","13:42:37",34.5,4.5,1000,1000,

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161919909,"PTP","1704175220","b","400","12000","400","2024-01-02T06:00:21.486Z","2024-01-02T06:00:21.486Z"

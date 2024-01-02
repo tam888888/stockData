@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161746870,"VIN","1704164241","unknown","100","20900","100","2024-01-02T02:57:23.336Z","2024-01-02T02:57:23.336Z"

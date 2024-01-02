@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"FIC",135111,"/Date(1704178260000)/",13400,30000,30000,402000000,-800,false,-5.63

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SGD",93943,"/Date(1704163183000)/",10600,1000,1000,10600000,-300,false,-2.75

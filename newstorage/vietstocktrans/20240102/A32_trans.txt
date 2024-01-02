@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"A32",131825,"/Date(1704176280000)/",31000,1,415,12854500,1000,true,3.33
+"A32",100815,"/Date(1704164880000)/",31000,400,414,12820000,1000,true,3.33

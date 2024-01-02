@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SZE",143413,"/Date(1704180840000)/",11900,1100,1100,13090000,0,false,0

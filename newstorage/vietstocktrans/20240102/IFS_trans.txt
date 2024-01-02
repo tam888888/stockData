@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"IFS",142206,"/Date(1704180120000)/",28900,1300,1300,37570000,-1200,false,-3.99

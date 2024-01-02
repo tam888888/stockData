@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+161682422,"VNY","1704161115","b","100","7400","100","2024-01-02T02:05:16.270Z","2024-01-02T02:05:16.270Z"

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GND",105052,"/Date(1704167460000)/",27800,1000,1000,27800000,0,false,0

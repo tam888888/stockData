@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PGN",144517,"/Date(1704181502000)/",9300,300,500,4570000,300,false,3.33
+"PGN",105415,"/Date(1704167655000)/",8400,100,200,1780000,-600,true,-6.67
+"PGN",94810,"/Date(1704163690000)/",9400,100,100,940000,400,false,4.44

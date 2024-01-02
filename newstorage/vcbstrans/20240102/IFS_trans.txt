@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"IFS","14:22:06",28.9,-1.2,1300,1300,

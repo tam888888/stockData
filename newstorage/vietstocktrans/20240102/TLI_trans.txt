@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TLI",130057,"/Date(1704175260000)/",7000,100,1300,9100000,0,true,0
+"TLI",95645,"/Date(1704164220000)/",7000,900,1200,8400000,0,false,0
+"TLI",95331,"/Date(1704164040000)/",7000,300,300,2100000,0,false,0

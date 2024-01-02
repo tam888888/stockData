@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"MCP","13:29:43",35.05,-2.4,100,100,"B"

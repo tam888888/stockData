@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DTC",101018,"/Date(1704165018000)/",4500,100,1500,6510000,0,false,0
+"DTC",93044,"/Date(1704162644000)/",4200,1200,1400,6060000,-300,true,-6.67
+"DTC",90020,"/Date(1704160820000)/",4500,100,200,900000,0,false,0
+"DTC",90009,"/Date(1704160809000)/",4500,100,100,450000,0,false,0

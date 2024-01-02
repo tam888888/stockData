@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"GLT","13:00:03",18,0,100,100,

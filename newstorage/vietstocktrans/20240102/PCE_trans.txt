@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PCE",135942,"/Date(1704178782000)/",19700,500,1100,21680000,-100,true,-0.51
+"PCE",135157,"/Date(1704178317000)/",19700,500,600,11830000,-100,true,-0.51
+"PCE",93147,"/Date(1704162707000)/",19800,100,100,1980000,0,false,0

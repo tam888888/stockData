@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"FIC","13:51:11",13.4,-0.8,30000,30000,

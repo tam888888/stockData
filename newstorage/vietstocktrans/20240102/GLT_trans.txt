@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GLT",130018,"/Date(1704175203000)/",18000,100,100,1800000,0,true,0

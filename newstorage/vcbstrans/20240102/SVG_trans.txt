@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SVG","09:52:29",4.1,-0.2,3100,3100,
