@@ -1,0 +1,30 @@
+1704191810788|{"errors":{"type":"sub","message":"Topic is invalid","client_payload":"{\"type\":\"sub\",\"topic\":\"serverName\"}"}}
+1704191810947|{"errors":{"type":"sub","message":"Topic is invalid","client_payload":"{\"type\":\"sub\",\"topic\":\"systemStatusChanged\"}"}}
+1704191810948|{"type":"ack"}
+1704191810949|Subscribed matchedVolByPriceV2
+1704191811000|Subscribed leTableAddV2
+1704191811001|Subscribed stockRealtimeByListV2
+1704191811002|Subscribed notifyIndexRealtimeByListV2
+1704191811002|Subscribed stockRealtimeByListV2
+1704191811003|Subscribed matchedVolByPriceV2
+1704191811003|Subscribed leTableAddV2
+1704191840779|{"type":"ack"}
+1704191870774|{"type":"ack"}
+1704191900775|{"type":"ack"}
+1704191930776|{"type":"ack"}
+1704191960777|{"type":"ack"}
+1704191990779|{"type":"ack"}
+1704192020777|{"type":"ack"}
+1704192050779|{"type":"ack"}
+1704192080780|{"type":"ack"}
+1704192110780|{"type":"ack"}
+1704192170781|{"type":"ack"}
+1704192200780|{"type":"ack"}
+1704192230781|{"type":"ack"}
+1704192260781|{"type":"ack"}
+1704192290782|{"type":"ack"}
+1704192320782|{"type":"ack"}
+1704192350781|{"type":"ack"}
+1704192380780|{"type":"ack"}
+1704192410781|{"type":"ack"}
+1704192440783|{"type":"ack"}
