@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MGC",104609,"/Date(1704253560000)/",4700,100,400,1920000,0,true,0
+"MGC",103939,"/Date(1704253200000)/",4700,100,300,1450000,0,true,0
+"MGC",103719,"/Date(1704253020000)/",4700,100,200,980000,0,false,0
+"MGC",90022,"/Date(1704247200000)/",5100,100,100,510000,400,false,8.51

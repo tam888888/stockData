@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CAT",143107,"/Date(1704267060000)/",15800,500,4500,69900000,400,false,2.6
+"CAT",112536,"/Date(1704255960000)/",15500,2000,4000,62000000,100,false,0.65
+"CAT",92519,"/Date(1704248700000)/",15500,2000,2000,31000000,100,false,0.65

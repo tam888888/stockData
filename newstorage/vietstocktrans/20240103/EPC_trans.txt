@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"EPC",141449,"/Date(1704266100000)/",8600,100,100,860000,0,false,0

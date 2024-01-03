@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162409947,"TJC","1704266170","s","100","14200","100","2024-01-03T07:16:10.729Z","2024-01-03T07:16:10.729Z"

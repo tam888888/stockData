@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"POT",132447,"/Date(1704263087000)/",17500,4,110,1912300,500,false,2.94
+"POT",132402,"/Date(1704263042000)/",17500,6,106,1847500,500,false,2.94
+"POT",130025,"/Date(1704261605000)/",17500,100,100,1750000,500,false,2.94

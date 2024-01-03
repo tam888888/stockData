@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HAC",95134,"/Date(1704250320000)/",9800,100,100,980000,0,false,0

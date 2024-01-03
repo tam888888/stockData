@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GMC",134845,"/Date(1704264565000)/",7990,100,400,3000000,0,false,0
+"GMC",104323,"/Date(1704253430000)/",7990,200,300,2000000,0,false,0
+"GMC",104132,"/Date(1704253319000)/",7990,100,100,0,0,false,0

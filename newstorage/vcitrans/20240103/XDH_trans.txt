@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162129044,"XDH","1704249541","b","100","17600","100","2024-01-03T02:39:02.811Z","2024-01-03T02:39:02.811Z"

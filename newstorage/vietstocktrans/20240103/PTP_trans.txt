@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PTP",132335,"/Date(1704263040000)/",12000,100,601,7210200,0,false,0
+"PTP",131759,"/Date(1704262680000)/",12000,100,501,6010200,0,false,0
+"PTP",130431,"/Date(1704261900000)/",12000,400,401,4810200,0,false,0

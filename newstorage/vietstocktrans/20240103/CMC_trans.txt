@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CMC",95215,"/Date(1704250335000)/",5700,200,200,1150000,-500,true,-8.06

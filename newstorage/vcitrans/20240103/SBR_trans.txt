@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162205651,"SBR","1704252625","unknown","1500","6800","1500","2024-01-03T03:30:26.549Z","2024-01-03T03:30:26.549Z"

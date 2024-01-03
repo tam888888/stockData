@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SGN","14:27:36",69.3,0.1,100,100,"B"

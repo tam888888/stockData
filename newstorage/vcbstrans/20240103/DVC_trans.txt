@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DVC","14:48:01",12.7,1.5,100,100,

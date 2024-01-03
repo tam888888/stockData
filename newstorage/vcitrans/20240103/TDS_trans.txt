@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162178369,"TDS","1704251458","b","300","10800","300","2024-01-03T03:10:59.531Z","2024-01-03T03:10:59.531Z"

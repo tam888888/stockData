@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"XMP",141301,"/Date(1704265980000)/",18000,300,401,7219400,1000,false,5.88
+"XMP",102042,"/Date(1704252060000)/",18000,1,101,1819400,1000,false,5.88
+"XMP",95132,"/Date(1704250320000)/",18000,100,100,1800000,1000,false,5.88

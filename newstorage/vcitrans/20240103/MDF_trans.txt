@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162090560,"MDF","1704247849","b","100","9800","100","2024-01-03T02:10:51.773Z","2024-01-03T02:10:51.773Z"

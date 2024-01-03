@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SDK",90556,"/Date(1704247560000)/",37600,100,100,3760000,4600,false,13.94

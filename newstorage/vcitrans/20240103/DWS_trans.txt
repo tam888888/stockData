@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162282516,"DWS","1704261862","unknown","100","12700","100","2024-01-03T06:04:22.694Z","2024-01-03T06:04:22.694Z"

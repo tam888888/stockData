@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SC5",140303,"/Date(1704265444000)/",19000,1000,2100,39000000,0,false,0
+"SC5",102945,"/Date(1704252610000)/",19000,1000,1100,20000000,0,false,0
+"SC5",100305,"/Date(1704251005000)/",17800,100,100,1000000,-1200,true,-6.32

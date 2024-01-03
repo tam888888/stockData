@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162396309,"HC3","1704265789","unknown","5000","29000","5000","2024-01-03T07:09:50.721Z","2024-01-03T07:09:50.721Z"

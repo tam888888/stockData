@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162445421,"NAS","1704268739","unknown","100","28500","100","2024-01-03T07:58:59.759Z","2024-01-03T07:58:59.759Z"

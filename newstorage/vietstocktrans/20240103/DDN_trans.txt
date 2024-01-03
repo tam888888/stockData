@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DDN",144135,"/Date(1704267720000)/",8100,13,613,4955300,0,false,0
+"DDN",130623,"/Date(1704261960000)/",8100,500,600,4850000,0,false,0
+"DDN",130438,"/Date(1704261900000)/",8000,100,100,800000,-100,true,-1.23

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162356152,"LKW","1704264528","unknown","100","30200","100","2024-01-03T06:48:49.705Z","2024-01-03T06:48:49.705Z"

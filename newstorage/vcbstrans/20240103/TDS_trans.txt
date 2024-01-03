@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TDS","10:10:57",10.8,0.9,300,300,

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162275100,"VIH","1704261606","b","100","10000","100","2024-01-03T06:00:07.815Z","2024-01-03T06:00:07.815Z"

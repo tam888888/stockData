@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SVI",95807,"/Date(1704250706000)/",59000,1000,2500,147000000,0,false,0
+"SVI",91509,"/Date(1704248120000)/",58500,200,1500,88000000,-500,false,-0.85
+"SVI",91450,"/Date(1704248100000)/",59000,1300,1300,76000000,0,false,0

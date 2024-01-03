@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AAM",135247,"/Date(1704264811000)/",9390,100,400,3000000,60,false,0.64
+"AAM",130618,"/Date(1704262024000)/",9400,200,300,2000000,70,true,0.75
+"AAM",91447,"/Date(1704248100000)/",8830,100,100,0,-500,true,-5.36

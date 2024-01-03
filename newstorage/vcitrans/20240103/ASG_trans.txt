@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162444175,"ASG","1704267888","unknown","300","21450","300","2024-01-03T07:45:02.751Z","2024-01-03T07:45:02.751Z"
