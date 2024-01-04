@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DFF",90347,"/Date(1704333840000)/",9900,500,4500,44550000,600,false,6.45
+"DFF",90303,"/Date(1704333780000)/",9900,1500,4000,39600000,600,false,6.45
+"DFF",90222,"/Date(1704333720000)/",9900,2500,2500,24750000,600,false,6.45

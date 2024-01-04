@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162474625,"TED","1704335092","s","500","39500","500","2024-01-04T02:24:53.668Z","2024-01-04T02:24:53.668Z"

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162725152,"QTC","1704348011","b","100","12900","100","2024-01-04T06:00:29.861Z","2024-01-04T06:00:29.861Z"

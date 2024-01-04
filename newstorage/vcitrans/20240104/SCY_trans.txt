@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162989884,"SCY","1704353182","s","300","13600","300","2024-01-04T07:26:26.848Z","2024-01-04T07:26:26.848Z"

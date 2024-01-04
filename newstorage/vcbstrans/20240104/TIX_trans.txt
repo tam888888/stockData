@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TIX","10:22:22",38,0,2000,2000,"B"

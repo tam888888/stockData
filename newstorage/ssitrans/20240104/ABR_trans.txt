@@ -1,0 +1,7 @@
+"stockNo","price","vol","accumulatedVol","time","ref","side","priceChange","priceChangePercent","changeType","__typename"
+"hose:4413",13750,600,1500,"13:54:35",13950,"bu",-200,-1.4,"D","LeTable"
+"hose:4413",13700,100,900,"13:26:49",13950,"sd",-250,-1.8,"D","LeTable"
+"hose:4413",13700,100,800,"13:19:02",13950,"sd",-250,-1.8,"D","LeTable"
+"hose:4413",13800,500,700,"11:29:39",13950,"bu",-150,-1.1,"D","LeTable"
+"hose:4413",13800,100,200,"11:15:10",13950,"bu",-150,-1.1,"D","LeTable"
+"hose:4413",13800,100,100,"09:15:05",13950,"sd",-150,-1.1,"D","LeTable"

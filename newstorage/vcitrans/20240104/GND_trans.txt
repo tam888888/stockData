@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163013375,"GND","1704353415","b","200","27800","200","2024-01-04T07:30:17.858Z","2024-01-04T07:30:17.858Z"

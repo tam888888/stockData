@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MKP",130653,"/Date(1704348420000)/",26000,100,109,2835800,-200,true,-0.76

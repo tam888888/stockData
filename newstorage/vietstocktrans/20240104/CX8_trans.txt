@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CX8",142508,"/Date(1704353107000)/",7800,100,300,2550000,-300,true,-3.7
+"CX8",130720,"/Date(1704348440000)/",8800,100,200,1770000,700,false,8.64
+"CX8",91928,"/Date(1704334768000)/",8900,100,100,890000,800,false,9.88

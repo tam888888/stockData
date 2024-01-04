@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SPM","14:00:20",11.8,-0.7,300,300,"B"

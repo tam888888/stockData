@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162445940,"MLC","1704333704","b","100","12800","100","2024-01-04T02:01:46.596Z","2024-01-04T02:01:46.596Z"

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162596169,"HDW","1704338061","b","1300","12400","1300","2024-01-04T03:14:23.664Z","2024-01-04T03:14:23.664Z"

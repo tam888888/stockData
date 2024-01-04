@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MNB",143012,"/Date(1704353400000)/",23200,100,100,2320000,0,false,0

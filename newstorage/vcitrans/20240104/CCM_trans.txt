@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162605085,"CCM","1704338406","unknown","2100","31500","2200","2024-01-04T03:20:07.666Z","2024-01-04T03:20:07.666Z"
+162604791,"CCM","1704338393","unknown","100","31600","100","2024-01-04T03:19:54.663Z","2024-01-04T03:19:54.663Z"

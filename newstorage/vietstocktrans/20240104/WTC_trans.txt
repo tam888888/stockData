@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"WTC",112948,"/Date(1704342600000)/",14000,25,425,5930000,0,false,0
+"WTC",100416,"/Date(1704337440000)/",14000,300,400,5600000,0,true,0
+"WTC",90531,"/Date(1704333960000)/",14000,100,100,1400000,0,false,0

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TCR",144631,"/Date(1704354301000)/",3300,300,400,1000000,50,true,1.54
+"TCR",103530,"/Date(1704339327000)/",3400,100,100,0,150,false,4.62

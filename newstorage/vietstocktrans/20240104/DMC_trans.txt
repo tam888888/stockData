@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DMC",142807,"/Date(1704353200000)/",58100,100,300,17000000,-900,true,-1.53
+"DMC",110121,"/Date(1704340880000)/",58800,100,200,11000000,-200,true,-0.34
+"DMC",91503,"/Date(1704334501000)/",58900,100,100,5000000,-100,false,-0.17

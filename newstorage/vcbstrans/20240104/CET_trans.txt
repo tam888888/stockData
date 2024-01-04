@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CET","14:10:21",5.8,0,100,100,

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BGW","09:48:33",17,0,8100,8100,

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TBR",93423,"/Date(1704335640000)/",10800,1,101,1088800,800,false,8
+"TBR",90939,"/Date(1704334200000)/",10800,100,100,1080000,800,false,8

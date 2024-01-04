@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PIC",144511,"/Date(1704354301000)/",15400,200,1400,20990000,500,false,3.36
+"PIC",141238,"/Date(1704352358000)/",15500,400,1200,17910000,600,false,4.03
+"PIC",141120,"/Date(1704352280000)/",14900,800,800,11890000,0,false,0

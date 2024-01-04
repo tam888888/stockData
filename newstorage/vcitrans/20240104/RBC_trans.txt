@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162524801,"RBC","1704336236","s","100","3900","100","2024-01-04T02:43:57.655Z","2024-01-04T02:43:57.655Z"

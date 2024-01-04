@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DOC",142851,"/Date(1704353340000)/",8200,200,3900,31470000,400,false,5.13
+"DOC",142434,"/Date(1704353100000)/",7800,100,3700,29830000,0,true,0
+"DOC",130121,"/Date(1704348060000)/",8100,3600,3600,29050000,300,false,3.85

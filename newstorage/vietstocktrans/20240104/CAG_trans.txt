@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CAG",103239,"/Date(1704339159000)/",7200,900,900,6480000,0,false,0

@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163014481,"VNF","1704354313","unknown","100","8100","100","2024-01-04T07:45:17.868Z","2024-01-04T07:45:17.868Z"
+163013965,"VNF","1704354210","s","0","8100","0","2024-01-04T07:43:31.855Z","2024-01-04T07:43:31.855Z"

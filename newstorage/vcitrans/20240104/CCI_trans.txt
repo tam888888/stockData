@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+162448005,"CCI","1704334490","unknown","100","25100","0","2024-01-04T02:15:04.641Z","2024-01-04T02:15:04.641Z"

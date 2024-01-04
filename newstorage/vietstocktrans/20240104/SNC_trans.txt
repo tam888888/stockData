@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SNC",92626,"/Date(1704335160000)/",18000,4000,4000,72000000,-700,false,-3.74

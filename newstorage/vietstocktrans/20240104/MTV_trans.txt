@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MTV",93958,"/Date(1704336000000)/",15200,100,100,1520000,-1800,false,-10.59

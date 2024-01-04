@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VCR",130031,"/Date(1704348000000)/",24900,2000,5000,124380000,0,false,0
+"VCR",112007,"/Date(1704342000000)/",25000,2800,3000,74980000,100,true,0.4
+"VCR",110833,"/Date(1704341340000)/",24900,200,200,4980000,0,false,0

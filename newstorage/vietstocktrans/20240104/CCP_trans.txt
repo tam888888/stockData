@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CCP",101332,"/Date(1704338040000)/",17900,100,300,5370000,0,false,0
+"CCP",100945,"/Date(1704337800000)/",17900,100,200,3580000,0,true,0
+"CCP",95740,"/Date(1704337080000)/",17900,100,100,1790000,0,true,0

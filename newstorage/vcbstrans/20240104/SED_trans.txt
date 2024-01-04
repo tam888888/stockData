@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SED","14:29:34",19.1,-0.1,500,500,

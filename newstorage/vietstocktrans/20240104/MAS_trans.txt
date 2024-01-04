@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MAS",112315,"/Date(1704342195000)/",35600,6,306,10872000,3200,false,9.88
+"MAS",111946,"/Date(1704341986000)/",35600,300,300,10680000,3200,false,9.88

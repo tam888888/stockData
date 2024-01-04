@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HMR",144513,"/Date(1704354301000)/",8700,200,3300,28750000,-400,false,-4.4
+"HMR",142439,"/Date(1704353079000)/",9100,100,3100,27010000,0,false,0
+"HMR",133357,"/Date(1704350037000)/",8700,3000,3000,26100000,-400,false,-4.4

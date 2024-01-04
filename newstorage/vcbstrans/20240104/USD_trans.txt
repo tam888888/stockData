@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"USD","13:00:03",18.2,2.3,100,100,

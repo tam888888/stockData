@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CGV",111238,"/Date(1704341580000)/",2500,200,800,2060000,-100,true,-3.85
+"CGV",92711,"/Date(1704335220000)/",2600,600,600,1560000,0,true,0

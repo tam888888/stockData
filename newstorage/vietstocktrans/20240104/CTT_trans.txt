@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CTT",130019,"/Date(1704348003000)/",17200,500,500,8600000,100,false,0.58
