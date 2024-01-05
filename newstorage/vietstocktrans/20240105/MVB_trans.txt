@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MVB",144506,"/Date(1704440701000)/",20700,100,400,8220000,0,false,0
+"MVB",131415,"/Date(1704435255000)/",20500,200,300,6150000,-200,false,-0.97
+"MVB",110452,"/Date(1704427492000)/",20500,100,100,2050000,-200,false,-0.97

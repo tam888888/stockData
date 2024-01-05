@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BED","13:12:48",18.9,1.7,100,100,

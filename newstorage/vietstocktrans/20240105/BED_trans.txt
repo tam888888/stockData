@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BED",131248,"/Date(1704435168000)/",18900,100,100,1890000,1700,false,9.88

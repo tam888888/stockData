@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ND2",135946,"/Date(1704438000000)/",30600,1600,4000,122400000,0,false,0
+"ND2",135529,"/Date(1704437760000)/",30600,400,2400,73440000,0,false,0
+"ND2",133744,"/Date(1704436680000)/",30600,2000,2000,61200000,0,false,0

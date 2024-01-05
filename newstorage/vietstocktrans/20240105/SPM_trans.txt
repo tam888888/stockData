@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SPM",144612,"/Date(1704440701000)/",12300,100,600,6000000,500,false,4.24
+"SPM",142921,"/Date(1704439696000)/",11200,100,500,5000000,-600,true,-5.08
+"SPM",142107,"/Date(1704439204000)/",11100,400,400,4000000,-700,true,-5.93

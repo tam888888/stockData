@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163100435,"WCS","1704423923","s","800","185600","800","2024-01-05T03:05:25.744Z","2024-01-05T03:05:25.744Z"

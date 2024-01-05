@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VTI",134626,"/Date(1704437160000)/",6300,1000,1000,6300000,-1100,false,-14.86

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MVN",144630,"/Date(1704440820000)/",18900,100,210,3970600,400,false,2.16
+"MVN",141631,"/Date(1704439020000)/",18900,100,110,2080600,400,false,2.16

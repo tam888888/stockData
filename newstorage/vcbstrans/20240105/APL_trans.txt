@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"APL","09:16:53",21.7,2.8,100,100,

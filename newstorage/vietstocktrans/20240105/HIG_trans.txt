@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HIG",130436,"/Date(1704434700000)/",9200,100,1200,11090000,100,false,1.1
+"HIG",111744,"/Date(1704428280000)/",9200,1000,1100,10170000,100,true,1.1
+"HIG",92917,"/Date(1704421740000)/",9700,100,100,970000,600,false,6.59

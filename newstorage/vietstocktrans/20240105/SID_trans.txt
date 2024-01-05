@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SID",92932,"/Date(1704421800000)/",13300,1600,7700,102380000,800,false,6.4
+"SID",92917,"/Date(1704421740000)/",13300,400,6100,81100000,800,true,6.4
+"SID",92824,"/Date(1704421680000)/",13300,5700,5700,75780000,800,false,6.4

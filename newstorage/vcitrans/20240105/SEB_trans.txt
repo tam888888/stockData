@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163277959,"SEB","1704436031","b","100","46000","100","2024-01-05T06:27:12.895Z","2024-01-05T06:27:12.895Z"

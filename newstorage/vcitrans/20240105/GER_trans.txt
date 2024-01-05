@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163025731,"GER","1704421242","s","100","8800","100","2024-01-05T02:23:57.835Z","2024-01-05T02:23:57.835Z"

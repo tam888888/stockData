@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SBR",133325,"/Date(1704436380000)/",6600,100,400,2640000,-300,false,-4.35
+"SBR",133254,"/Date(1704436380000)/",6600,300,300,1980000,-300,false,-4.35

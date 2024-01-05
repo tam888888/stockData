@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DXL",93017,"/Date(1704421800000)/",6000,145000,145000,870000000,-3600,true,-37.5

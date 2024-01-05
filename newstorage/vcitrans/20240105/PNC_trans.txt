@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163087471,"PNC","1704423450","s","100","8850","0","2024-01-05T02:57:45.731Z","2024-01-05T02:57:45.731Z"

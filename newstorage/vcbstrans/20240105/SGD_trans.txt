@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SGD","10:19:00",11.6,0.1,100,100,

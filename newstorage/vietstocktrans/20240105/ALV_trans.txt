@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ALV",95601,"/Date(1704423360000)/",3900,5300,11400,44460000,0,false,0
+"ALV",95356,"/Date(1704423240000)/",3900,1000,6100,23790000,0,false,0
+"ALV",93410,"/Date(1704422040000)/",3900,5100,5100,19890000,0,true,0

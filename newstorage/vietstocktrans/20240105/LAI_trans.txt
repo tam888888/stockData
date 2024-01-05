@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LAI",112141,"/Date(1704428520000)/",45500,900,900,40950000,-200,true,-0.44

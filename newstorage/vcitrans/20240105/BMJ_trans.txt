@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163171845,"BMJ","1704426571","s","100","9900","100","2024-01-05T03:49:33.811Z","2024-01-05T03:49:33.811Z"

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PAC",144609,"/Date(1704440701000)/",26300,12000,12900,337000000,1500,false,6.05
+"PAC",141934,"/Date(1704439112000)/",24500,400,900,22000000,-300,true,-1.21
+"PAC",104814,"/Date(1704426463000)/",24800,500,500,12000000,0,false,0

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"GTD","13:41:00",8.3,-1.4,100,100,

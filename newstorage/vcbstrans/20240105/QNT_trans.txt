@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"QNT","09:08:24",16.2,2.1,100,100,

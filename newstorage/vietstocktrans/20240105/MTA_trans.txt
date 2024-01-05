@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MTA",95546,"/Date(1704423360000)/",3700,100,100,370000,100,false,2.78

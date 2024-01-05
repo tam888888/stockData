@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163403740,"PWA","1704439983","b","500","3800","500","2024-01-05T07:33:03.931Z","2024-01-05T07:33:03.931Z"

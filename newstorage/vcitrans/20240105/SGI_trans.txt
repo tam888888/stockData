@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163119190,"SGI","1704424617","b","100","15400","100","2024-01-05T03:16:58.736Z","2024-01-05T03:16:58.736Z"

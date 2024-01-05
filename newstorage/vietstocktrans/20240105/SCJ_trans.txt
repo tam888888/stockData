@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SCJ",141523,"/Date(1704438900000)/",4100,100,1601,6434200,100,false,2.5
+"SCJ",111155,"/Date(1704427920000)/",4000,1400,1501,6024200,0,true,0
+"SCJ",105410,"/Date(1704426840000)/",4200,1,101,424200,200,false,5
+"SCJ",90651,"/Date(1704420420000)/",4200,100,100,420000,200,false,5

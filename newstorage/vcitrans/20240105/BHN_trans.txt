@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163393218,"BHN","1704439591","s","1000","39500","0","2024-01-05T07:26:47.961Z","2024-01-05T07:26:47.961Z"

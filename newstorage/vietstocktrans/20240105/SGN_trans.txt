@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SGN",144612,"/Date(1704440701000)/",69300,1000,1500,104000000,0,true,0
+"SGN",140409,"/Date(1704438190000)/",70700,300,500,35000000,1400,false,2.02
+"SGN",140409,"/Date(1704438190000)/",69500,200,200,13000000,200,false,0.29

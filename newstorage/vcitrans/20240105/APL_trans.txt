@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163020295,"APL","1704421013","s","100","21700","100","2024-01-05T02:17:24.411Z","2024-01-05T02:17:24.411Z"

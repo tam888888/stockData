@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163404341,"GMC","1704440686","unknown","500","7810","0","2024-01-05T07:45:02.997Z","2024-01-05T07:45:02.997Z"

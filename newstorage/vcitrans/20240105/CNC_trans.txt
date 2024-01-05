@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163246115,"CNC","1704435074","s","100","28400","100","2024-01-05T06:11:15.873Z","2024-01-05T06:11:15.873Z"

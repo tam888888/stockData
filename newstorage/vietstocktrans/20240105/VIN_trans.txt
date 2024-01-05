@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VIN",93941,"/Date(1704422400000)/",19200,100,100,1920000,-800,false,-4

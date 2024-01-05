@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163074310,"CIP","1704422958","b","200","3200","200","2024-01-05T02:49:19.710Z","2024-01-05T02:49:19.710Z"

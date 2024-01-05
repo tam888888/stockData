@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AG1",144546,"/Date(1704440760000)/",7800,200,400,3090000,300,false,4
+"AG1",143507,"/Date(1704440100000)/",7800,100,200,1530000,300,false,4
+"AG1",142907,"/Date(1704439740000)/",7500,100,100,750000,0,true,0

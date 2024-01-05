@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GER",92042,"/Date(1704421260000)/",8800,100,100,880000,1100,false,14.29

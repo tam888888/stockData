@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DNP",144512,"/Date(1704440701000)/",21900,700,1000,21780000,400,false,1.86
+"DNP",131908,"/Date(1704435547000)/",21800,100,300,6450000,300,false,1.4
+"DNP",104746,"/Date(1704426465000)/",21300,200,200,4270000,-200,false,-0.93

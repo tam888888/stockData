@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CNC","13:11:14",28.4,-0.5,100,100,

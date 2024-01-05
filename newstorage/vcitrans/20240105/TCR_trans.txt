@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163286927,"TCR","1704436314","b","100","3350","0","2024-01-05T06:32:09.903Z","2024-01-05T06:32:09.903Z"

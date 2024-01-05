@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HNF",143626,"/Date(1704440160000)/",22000,700,2000,42100000,1900,true,9.45
+"HNF",143039,"/Date(1704439860000)/",22000,300,1300,26700000,1900,true,9.45
+"HNF",102316,"/Date(1704424980000)/",20100,1000,1000,20100000,0,false,0

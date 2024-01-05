@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PPP",144517,"/Date(1704440702000)/",16500,100,1001,16496800,-300,false,-1.79
+"PPP",130017,"/Date(1704434403000)/",16200,500,901,14846800,-600,true,-3.57
+"PPP",102740,"/Date(1704425260000)/",16800,400,401,6736800,0,false,0

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CID",90204,"/Date(1704420120000)/",9000,100,500,4460000,-900,true,-9.09
+"CID",90058,"/Date(1704420000000)/",8900,400,400,3560000,-1000,false,-10.1

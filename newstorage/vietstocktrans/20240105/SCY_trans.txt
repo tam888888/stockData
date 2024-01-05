@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SCY",110947,"/Date(1704427800000)/",13600,1,601,8173300,0,false,0
+"SCY",104437,"/Date(1704426300000)/",13600,400,600,8160000,0,false,0
+"SCY",92936,"/Date(1704421800000)/",13600,200,200,2720000,0,true,0

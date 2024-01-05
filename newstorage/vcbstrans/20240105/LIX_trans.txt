@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"LIX","10:37:44",51.9,0.4,100,100,"S"

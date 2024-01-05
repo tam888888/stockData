@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163016359,"BKC","1704420401","unknown","100","7300","100","2024-01-05T02:08:57.243Z","2024-01-05T02:08:57.243Z"

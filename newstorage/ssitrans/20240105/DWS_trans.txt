@@ -1,0 +1,5 @@
+"stockNo","price","vol","accumulatedVol","time","ref","side","priceChange","priceChangePercent","changeType","__typename"
+"upcom:78099",14100,200,22200,"14:41:48",12600,"bu",1500,11.9,"U","LeTable"
+"upcom:78099",13000,2000,22000,"13:03:31",12600,"bu",400,3.2,"U","LeTable"
+"upcom:78099",13000,19000,20000,"10:26:43",12600,"unknown",400,3.2,"U","LeTable"
+"upcom:78099",13000,1000,1000,"10:22:19",12600,"bu",400,3.2,"U","LeTable"

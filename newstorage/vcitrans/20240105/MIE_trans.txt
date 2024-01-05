@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163294443,"MIE","1704436614","s","300","4500","300","2024-01-05T06:36:54.896Z","2024-01-05T06:36:54.896Z"
