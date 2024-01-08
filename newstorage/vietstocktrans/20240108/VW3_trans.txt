@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VW3",90218,"/Date(1704679320000)/",14900,100,100,1490000,1300,false,9.56

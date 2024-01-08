@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"APP",110901,"/Date(1704686940000)/",4500,300,800,3600000,0,false,0
+"APP",110729,"/Date(1704686820000)/",4500,200,500,2250000,0,true,0
+"APP",102636,"/Date(1704684420000)/",4500,300,300,1350000,0,true,0

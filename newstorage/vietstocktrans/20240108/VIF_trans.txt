@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VIF",95614,"/Date(1704682574000)/",17500,100,100,1750000,300,false,1.74

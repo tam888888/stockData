@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163406491,"CID","1704679456","b","100","9800","100","2024-01-08T02:04:17.988Z","2024-01-08T02:04:17.988Z"

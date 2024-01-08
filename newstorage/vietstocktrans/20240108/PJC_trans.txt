@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PJC",140035,"/Date(1704697235000)/",26500,100,100,2650000,1600,false,6.43

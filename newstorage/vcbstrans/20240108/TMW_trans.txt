@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TMW","14:12:09",6.4,-0.9,100,100,

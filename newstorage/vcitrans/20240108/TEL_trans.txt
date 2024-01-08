@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163547693,"TEL","1704684048","unknown","5200","12800","5200","2024-01-08T03:20:49.078Z","2024-01-08T03:20:49.078Z"

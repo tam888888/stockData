@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SVC",130552,"/Date(1704693971000)/",28200,100,300,8000000,0,false,0
+"SVC",130033,"/Date(1704693651000)/",28200,100,200,5000000,0,false,0
+"SVC",130010,"/Date(1704693608000)/",28200,100,100,2000000,0,true,0

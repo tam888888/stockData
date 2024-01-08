@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BLW",144426,"/Date(1704699840000)/",10500,100,900,7870000,1300,false,14.13
+"BLW",94349,"/Date(1704681840000)/",8500,600,800,6820000,-700,true,-7.61
+"BLW",94328,"/Date(1704681780000)/",8600,200,200,1720000,-600,false,-6.52

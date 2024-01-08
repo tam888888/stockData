@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163630907,"SDG","1704687391","b","200","18200","200","2024-01-08T04:16:32.115Z","2024-01-08T04:16:32.115Z"

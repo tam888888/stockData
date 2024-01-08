@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DFC",110809,"/Date(1704686880000)/",17000,1100,3100,52300000,-100,false,-0.58
+"DFC",105701,"/Date(1704686220000)/",17000,1000,2000,33600000,-100,false,-0.58
+"DFC",103935,"/Date(1704685200000)/",16600,1000,1000,16600000,-500,true,-2.92

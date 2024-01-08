@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LGC",102915,"/Date(1704684574000)/",58000,100,300,16000000,3000,false,5.45
+"LGC",102915,"/Date(1704684574000)/",57300,100,200,11000000,2300,false,4.18
+"LGC",102915,"/Date(1704684574000)/",54400,100,100,5000000,-600,false,-1.09

@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BIO",140202,"/Date(1704697320000)/",18800,500,4300,80840000,0,false,0
+"BIO",104922,"/Date(1704685740000)/",18800,500,3800,71440000,0,false,0
+"BIO",101138,"/Date(1704683520000)/",18800,3200,3300,62040000,0,false,0
+"BIO",92733,"/Date(1704680880000)/",18800,100,100,1880000,0,false,0

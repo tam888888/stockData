@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TXM",104732,"/Date(1704685652000)/",4500,100,900,4190000,-100,true,-2.17
+"TXM",90934,"/Date(1704679775000)/",4700,500,800,3740000,100,false,2.17
+"TXM",90504,"/Date(1704679504000)/",4700,300,300,1390000,100,false,2.17

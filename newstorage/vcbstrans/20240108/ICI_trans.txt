@@ -1,0 +1,3 @@
+"symbol","time","price","change","vol","total","side"
+"ICI","10:41:00",7,0,800,1000,
+"ICI","10:34:24",7,0,200,200,

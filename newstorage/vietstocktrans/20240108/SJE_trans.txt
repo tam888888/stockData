@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SJE",104938,"/Date(1704685778000)/",21300,1000,1069,22648300,100,false,0.47

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"HIG","14:15:17",9,-0.2,100,100,

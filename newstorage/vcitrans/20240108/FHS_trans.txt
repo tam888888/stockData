@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163412898,"FHS","1704680237","unknown","400","24800","400","2024-01-08T02:17:18.030Z","2024-01-08T02:17:18.030Z"

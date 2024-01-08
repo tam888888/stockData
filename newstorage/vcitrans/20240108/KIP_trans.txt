@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163777763,"KIP","1704697770","b","100","9000","100","2024-01-08T07:09:32.285Z","2024-01-08T07:09:32.285Z"

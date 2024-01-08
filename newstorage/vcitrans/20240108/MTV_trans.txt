@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163649838,"MTV","1704693620","b","100","17000","100","2024-01-08T06:00:23.246Z","2024-01-08T06:00:23.246Z"

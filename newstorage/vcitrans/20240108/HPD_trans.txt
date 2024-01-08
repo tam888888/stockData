@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163826370,"HPD","1704699741","unknown","300","23000","300","2024-01-08T07:42:23.279Z","2024-01-08T07:42:23.279Z"

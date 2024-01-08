@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163790224,"TIN","1704698165","unknown","900","10500","900","2024-01-08T07:16:07.267Z","2024-01-08T07:16:07.267Z"

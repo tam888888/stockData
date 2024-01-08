@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"WSB",131117,"/Date(1704694260000)/",48600,100,100,4860000,100,true,0.21

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163434170,"XMP","1704680764","s","200","17000","200","2024-01-08T02:26:06.033Z","2024-01-08T02:26:06.033Z"

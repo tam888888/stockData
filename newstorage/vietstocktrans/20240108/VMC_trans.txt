@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VMC",142824,"/Date(1704698904000)/",8500,100,1400,11770000,100,false,1.19
+"VMC",140442,"/Date(1704697482000)/",8400,300,1300,10920000,0,false,0
+"VMC",95652,"/Date(1704682613000)/",8400,1000,1000,8400000,0,false,0

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BVL",132248,"/Date(1704694980000)/",12200,100,100,1220000,-100,false,-0.81

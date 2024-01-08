@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SGH",130849,"/Date(1704694128000)/",32700,100,200,6550000,-3600,true,-9.92
+"SGH",130504,"/Date(1704693904000)/",32800,100,100,3280000,-3500,true,-9.64

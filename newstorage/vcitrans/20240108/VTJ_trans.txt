@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163405846,"VTJ","1704679219","s","200","3700","200","2024-01-08T02:00:22.992Z","2024-01-08T02:00:22.992Z"

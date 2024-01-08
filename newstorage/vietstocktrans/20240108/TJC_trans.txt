@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TJC",103757,"/Date(1704685077000)/",14000,50,400,5600000,-800,true,-5.41
+"TJC",103744,"/Date(1704685064000)/",14000,50,350,4900000,-800,true,-5.41
+"TJC",94623,"/Date(1704681983000)/",14000,300,300,4200000,-800,false,-5.41
