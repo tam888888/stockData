@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+164058437,"VMC","1704780193","b","200","8400","200","2024-01-09T06:03:14.848Z","2024-01-09T06:03:14.848Z"

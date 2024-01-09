@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SD3",143330,"/Date(1704785640000)/",5300,1900,2605,13805000,100,true,1.92
+"SD3",140931,"/Date(1704784200000)/",5300,100,705,3735000,100,true,1.92
+"SD3",94820,"/Date(1704768480000)/",5300,600,605,3205000,100,true,1.92

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+164259134,"SGN","1704786291","unknown","4700","70000","4700","2024-01-09T07:45:05.956Z","2024-01-09T07:45:05.956Z"

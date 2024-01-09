@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GTS",141939,"/Date(1704784800000)/",10300,200,800,8240000,300,true,3
+"GTS",140302,"/Date(1704783780000)/",10300,400,600,6180000,300,true,3
+"GTS",112746,"/Date(1704774480000)/",10300,200,200,2060000,300,true,3

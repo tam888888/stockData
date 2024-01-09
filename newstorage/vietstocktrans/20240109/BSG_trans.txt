@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BSG",134832,"/Date(1704782940000)/",12300,1300,4400,53870000,600,false,5.13
+"BSG",134748,"/Date(1704782880000)/",12300,2600,3100,37880000,600,false,5.13
+"BSG",101006,"/Date(1704769800000)/",11800,500,500,5900000,100,true,0.85

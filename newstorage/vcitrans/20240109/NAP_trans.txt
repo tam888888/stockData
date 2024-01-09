@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+164219907,"NAP","1704784502","b","100","9800","100","2024-01-09T07:15:03.944Z","2024-01-09T07:15:03.944Z"

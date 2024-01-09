@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LM7",145749,"/Date(1704787080000)/",2600,200,1300,3370000,100,true,4
+"LM7",145726,"/Date(1704787020000)/",2600,1000,1100,2850000,100,false,4
+"LM7",100402,"/Date(1704769440000)/",2500,100,100,250000,0,false,0

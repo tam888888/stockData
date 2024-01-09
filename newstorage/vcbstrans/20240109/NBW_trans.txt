@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NBW","13:54:41",23.5,0,100,100,

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DAS",90506,"/Date(1704765900000)/",16600,100,100,1660000,1700,false,11.41

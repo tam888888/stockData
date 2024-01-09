@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163827646,"KCB","1704765611","b","100","7700","100","2024-01-09T02:00:13.651Z","2024-01-09T02:00:13.651Z"

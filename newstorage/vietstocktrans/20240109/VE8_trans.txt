@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VE8",144512,"/Date(1704786302000)/",4400,300,300,1320000,100,false,2.33

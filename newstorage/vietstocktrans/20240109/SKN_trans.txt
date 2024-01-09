@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SKN",105724,"/Date(1704772620000)/",9400,100,100,940000,1100,false,13.25

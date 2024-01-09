@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SD2",102811,"/Date(1704770880000)/",4200,300,500,2100000,0,false,0
+"SD2",101349,"/Date(1704770040000)/",4200,100,200,840000,0,false,0
+"SD2",101315,"/Date(1704769980000)/",4200,100,100,420000,0,false,0

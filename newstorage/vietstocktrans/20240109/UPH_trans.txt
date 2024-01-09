@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"UPH",100945,"/Date(1704769800000)/",11600,100,100,1160000,-2000,false,-14.71

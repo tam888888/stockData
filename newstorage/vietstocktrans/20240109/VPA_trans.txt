@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VPA",131019,"/Date(1704780600000)/",3000,100,4601,13803000,0,false,0
+"VPA",130012,"/Date(1704780000000)/",3000,1,4501,13503000,0,false,0
+"VPA",101710,"/Date(1704770220000)/",3000,2800,4500,13500000,0,false,0
+"VPA",92140,"/Date(1704766920000)/",3000,1700,1700,5100000,0,false,0

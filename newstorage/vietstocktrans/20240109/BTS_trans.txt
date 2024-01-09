@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BTS",102929,"/Date(1704770969000)/",5600,100,100,560000,0,false,0

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SRF",144508,"/Date(1704786300000)/",8080,100,600,4000000,-40,false,-0.49
+"SRF",134850,"/Date(1704782929000)/",8080,200,500,4000000,-40,false,-0.49
+"SRF",92713,"/Date(1704767232000)/",8100,300,300,2000000,-20,false,-0.25

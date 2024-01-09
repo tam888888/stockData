@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TA9",144517,"/Date(1704786303000)/",10300,2000,2229,22935800,0,true,0
+"TA9",140504,"/Date(1704783904000)/",10200,29,229,2335800,-100,true,-0.97
+"TA9",91322,"/Date(1704766402000)/",10200,200,200,2040000,-100,true,-0.97

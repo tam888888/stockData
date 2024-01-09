@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TV6",140233,"/Date(1704783780000)/",3300,200,900,2970000,-200,true,-5.71
+"TV6",140006,"/Date(1704783600000)/",3300,500,700,2310000,-200,true,-5.71
+"TV6",130012,"/Date(1704780000000)/",3300,200,200,660000,-200,true,-5.71

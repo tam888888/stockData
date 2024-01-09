@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"ADP","13:00:20",19.05,0,100,100,"B"

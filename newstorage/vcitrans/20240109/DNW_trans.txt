@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+163913205,"DNW","1704768747","unknown","300","27500","300","2024-01-09T02:52:28.700Z","2024-01-09T02:52:28.700Z"

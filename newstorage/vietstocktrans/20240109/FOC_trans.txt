@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"FOC",103347,"/Date(1704771240000)/",69500,100,400,27740000,1300,false,1.91
+"FOC",103216,"/Date(1704771120000)/",69300,100,300,20790000,1100,false,1.61
+"FOC",102039,"/Date(1704770460000)/",69300,200,200,13860000,1100,false,1.61

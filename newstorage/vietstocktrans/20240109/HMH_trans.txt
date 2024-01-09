@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HMH",144512,"/Date(1704786302000)/",14000,100,300,4200000,0,false,0
+"HMH",105648,"/Date(1704772608000)/",14000,100,200,2800000,0,true,0
+"HMH",105608,"/Date(1704772568000)/",14000,100,100,1400000,0,true,0

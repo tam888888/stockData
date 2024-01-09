@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TTD",143629,"/Date(1704785760000)/",84500,100,300,25750000,-1800,false,-2.09
+"TTD",92848,"/Date(1704767340000)/",74100,100,200,17300000,-12200,false,-14.14
+"TTD",90944,"/Date(1704766200000)/",98900,100,100,9890000,12600,false,14.6

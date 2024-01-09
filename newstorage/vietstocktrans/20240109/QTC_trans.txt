@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"QTC",134739,"/Date(1704782859000)/",12500,100,1000,11570000,0,false,0
+"QTC",130811,"/Date(1704780491000)/",11400,500,900,10320000,-1100,false,-8.8
+"QTC",130353,"/Date(1704780233000)/",11400,400,400,4620000,-1100,false,-8.8

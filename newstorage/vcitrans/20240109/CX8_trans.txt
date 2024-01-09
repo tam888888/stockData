@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+164217402,"CX8","1704784446","s","100","7600","100","2024-01-09T07:14:07.923Z","2024-01-09T07:14:07.923Z"

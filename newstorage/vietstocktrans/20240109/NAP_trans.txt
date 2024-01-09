@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NAP",141502,"/Date(1704784502000)/",9800,100,100,980000,-400,true,-3.92

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"GTA","14:45:01",14.05,-0.45,100,100,

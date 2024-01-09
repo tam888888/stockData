@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TIN",100959,"/Date(1704769800000)/",10400,100,175,1827500,-100,false,-0.95

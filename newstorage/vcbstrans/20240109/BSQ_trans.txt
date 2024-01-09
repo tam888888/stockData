@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BSQ","14:31:52",19.7,0,300,300,

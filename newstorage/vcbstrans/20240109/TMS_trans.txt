@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TMS","14:45:01",42.75,-0.25,100,100,

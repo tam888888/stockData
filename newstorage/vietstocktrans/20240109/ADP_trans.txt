@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ADP",130036,"/Date(1704780020000)/",19050,100,100,1000000,0,true,0

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LEC",130016,"/Date(1704780001000)/",6160,100,300,1000000,30,true,0.49
+"LEC",100354,"/Date(1704769431000)/",6140,200,200,1000000,10,true,0.16
