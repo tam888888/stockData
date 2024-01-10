@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MCF",142553,"/Date(1704871553000)/",9000,20,3520,31630000,200,false,2.27
+"MCF",133946,"/Date(1704868786000)/",9000,2800,3500,31450000,200,false,2.27
+"MCF",100504,"/Date(1704855904000)/",9000,700,700,6300000,200,false,2.27

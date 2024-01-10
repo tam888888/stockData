@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AGX",140601,"/Date(1704870360000)/",37800,300,300,11340000,100,false,0.27

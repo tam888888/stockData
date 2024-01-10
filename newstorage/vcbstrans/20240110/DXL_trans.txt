@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DXL","13:45:10",6.9,0.9,100,100,

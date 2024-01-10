@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VNT",94847,"/Date(1704854927000)/",30100,100,100,3010000,-400,false,-1.31

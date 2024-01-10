@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BLI",145814,"/Date(1704873480000)/",11600,2400,5156,59746000,300,false,2.65
+"BLI",130018,"/Date(1704866400000)/",11600,156,2756,31906000,300,false,2.65
+"BLI",112034,"/Date(1704860460000)/",11600,2600,2600,30130000,300,false,2.65

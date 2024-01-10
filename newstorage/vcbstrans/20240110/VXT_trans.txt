@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VXT","10:14:57",15,-0.3,100,100,

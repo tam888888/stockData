@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PJS",143624,"/Date(1704872160000)/",26900,500,1100,29100000,3200,false,13.5
+"PJS",143429,"/Date(1704872040000)/",26900,500,600,15650000,3200,false,13.5
+"PJS",90039,"/Date(1704852000000)/",22000,100,100,2200000,-1700,true,-7.17

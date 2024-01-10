@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DTG","09:38:32",23.2,-2.1,100,100,

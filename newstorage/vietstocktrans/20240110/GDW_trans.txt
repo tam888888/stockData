@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GDW",112841,"/Date(1704860921000)/",26500,100,100,2650000,-1000,false,-3.64

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BHI","10:08:05",19.6,-0.3,500,500,

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NTT",93753,"/Date(1704854280000)/",6700,400,400,2680000,-100,false,-1.47

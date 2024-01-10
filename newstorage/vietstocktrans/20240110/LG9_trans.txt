@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LG9",145522,"/Date(1704873300000)/",6300,100,100,630000,500,false,8.62

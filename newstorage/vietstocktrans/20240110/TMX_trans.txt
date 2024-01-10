@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TMX",103528,"/Date(1704857728000)/",9900,100,200,2060000,100,true,1.02
+"TMX",90039,"/Date(1704852009000)/",10700,100,100,1070000,900,false,9.18

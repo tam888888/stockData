@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CTB",134502,"/Date(1704869102000)/",19600,700,700,13720000,-1300,true,-6.22

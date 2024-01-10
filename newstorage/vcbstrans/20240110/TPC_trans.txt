@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TPC","09:31:26",5.89,0,300,300,"S"

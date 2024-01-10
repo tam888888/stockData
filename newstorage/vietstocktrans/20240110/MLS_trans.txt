@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MLS",105252,"/Date(1704858780000)/",10800,100,3700,39960000,0,false,0
+"MLS",103946,"/Date(1704858000000)/",10800,300,3600,38880000,0,false,0
+"MLS",103919,"/Date(1704857940000)/",10800,3300,3300,35640000,0,false,0

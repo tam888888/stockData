@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"APL",140955,"/Date(1704870600000)/",18500,100,300,5550000,-3200,true,-14.75
+"APL",134314,"/Date(1704868980000)/",18500,100,200,3700000,-3200,false,-14.75
+"APL",130229,"/Date(1704866520000)/",18500,100,100,1850000,-3200,true,-14.75
