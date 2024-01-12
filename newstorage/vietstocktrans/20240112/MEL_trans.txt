@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MEL",141943,"/Date(1705043983000)/",6200,500,1500,9450000,-400,true,-6.06
+"MEL",141836,"/Date(1705043916000)/",6300,500,1000,6350000,-300,false,-4.55
+"MEL",141718,"/Date(1705043838000)/",6400,500,500,3200000,-200,true,-3.03

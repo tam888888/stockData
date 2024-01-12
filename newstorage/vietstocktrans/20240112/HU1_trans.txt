@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HU1",144604,"/Date(1705045500000)/",7000,200,700,4000000,-200,false,-2.78
+"HU1",110845,"/Date(1705032534000)/",7110,500,500,3000000,-90,true,-1.25

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"XDH",130010,"/Date(1705039200000)/",18000,600,700,12600000,2300,false,14.65
+"XDH",113005,"/Date(1705033800000)/",18000,100,100,1800000,2300,false,14.65

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NVT",134535,"/Date(1705041872000)/",7880,500,1000,7000000,-20,false,-0.25
+"NVT",131635,"/Date(1705040131000)/",7410,200,500,3000000,-490,true,-6.2
+"NVT",131635,"/Date(1705040131000)/",7420,300,300,2000000,-480,true,-6.08

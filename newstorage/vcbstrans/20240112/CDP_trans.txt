@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CDP","11:19:11",10.7,-0.5,700,700,

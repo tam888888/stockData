@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HFX",91002,"/Date(1705025400000)/",2400,100,100,240000,300,true,14.29

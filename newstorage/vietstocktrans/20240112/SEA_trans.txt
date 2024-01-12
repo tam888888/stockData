@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SEA",143303,"/Date(1705044780000)/",27300,500,1000,27300000,0,true,0
+"SEA",143258,"/Date(1705044780000)/",27300,500,500,13650000,0,true,0

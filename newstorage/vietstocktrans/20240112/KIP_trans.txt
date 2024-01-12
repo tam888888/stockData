@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"KIP",130921,"/Date(1705039740000)/",8800,100,100,880000,1100,false,14.29

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165562181,"MKV","1705042901","s","100","8900","100","2024-01-12T07:01:42.956Z","2024-01-12T07:01:42.956Z"

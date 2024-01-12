@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CNC",135357,"/Date(1705042440000)/",28600,2000,2200,63040000,0,false,0
+"CNC",104018,"/Date(1705030800000)/",29200,100,200,5840000,600,true,2.1
+"CNC",103614,"/Date(1705030560000)/",29200,100,100,2920000,600,true,2.1

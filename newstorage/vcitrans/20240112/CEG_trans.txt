@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165245839,"CEG","1705027218","s","400","10000","400","2024-01-12T02:40:20.754Z","2024-01-12T02:40:20.754Z"

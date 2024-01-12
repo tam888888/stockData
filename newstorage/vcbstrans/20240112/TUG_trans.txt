@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TUG","14:53:09",14.2,-0.7,100,100,

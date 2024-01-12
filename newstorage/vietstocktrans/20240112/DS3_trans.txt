@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DS3",110721,"/Date(1705032441000)/",4900,200,400,1950000,0,false,0
+"DS3",105811,"/Date(1705031891000)/",4900,100,200,970000,0,false,0
+"DS3",105347,"/Date(1705031627000)/",4800,100,100,480000,-100,false,-2.04

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GIC",92307,"/Date(1705026187000)/",14200,100,100,1420000,-200,false,-1.39

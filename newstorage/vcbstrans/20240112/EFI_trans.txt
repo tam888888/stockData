@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"EFI","10:52:34",1.7,0.2,100,100,

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CCI",94411,"/Date(1705027449000)/",22000,5200,5200,114000000,-1550,false,-6.58

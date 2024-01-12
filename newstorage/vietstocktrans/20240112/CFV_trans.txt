@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CFV",144701,"/Date(1705045620000)/",21500,100,300,6450000,-600,false,-2.71
+"CFV",144614,"/Date(1705045560000)/",21500,100,200,4300000,-600,false,-2.71
+"CFV",143257,"/Date(1705044780000)/",21500,100,100,2150000,-600,false,-2.71

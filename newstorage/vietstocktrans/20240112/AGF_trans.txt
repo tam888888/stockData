@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AGF",143347,"/Date(1705044840000)/",2700,100,4602,12424600,0,false,0
+"AGF",132112,"/Date(1705040460000)/",2700,2,4502,12154600,0,false,0
+"AGF",130546,"/Date(1705039560000)/",2700,3400,4500,12150000,0,false,0
+"AGF",130034,"/Date(1705039200000)/",2700,1100,1100,2970000,0,false,0

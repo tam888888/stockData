@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BTD","10:10:20",22,-0.7,500,500,

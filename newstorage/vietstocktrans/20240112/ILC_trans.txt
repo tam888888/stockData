@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ILC",145150,"/Date(1705045920000)/",6100,300,300,1830000,-100,true,-1.61

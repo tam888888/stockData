@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165420262,"KCE","1705033651","s","100","7600","100","2024-01-12T04:27:31.846Z","2024-01-12T04:27:31.846Z"

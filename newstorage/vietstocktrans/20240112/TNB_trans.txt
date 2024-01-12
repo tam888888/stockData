@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TNB",102916,"/Date(1705030140000)/",6900,100,100,690000,900,false,15

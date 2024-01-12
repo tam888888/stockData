@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SGS",145129,"/Date(1705045860000)/",16600,2900,5900,97740000,100,false,0.61
+"SGS",145048,"/Date(1705045860000)/",16600,2900,3000,49600000,100,false,0.61
+"SGS",90031,"/Date(1705024800000)/",14600,100,100,1460000,-1900,true,-11.52

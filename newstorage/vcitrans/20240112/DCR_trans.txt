@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165686092,"DCR","1705046401","b","100","6700","100","2024-01-12T08:00:03.004Z","2024-01-12T08:00:03.004Z"

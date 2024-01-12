@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NCS",141647,"/Date(1705043820000)/",20200,500,703,14169700,300,false,1.51
+"NCS",134401,"/Date(1705041840000)/",20200,100,203,4069700,300,false,1.51
+"NCS",132926,"/Date(1705040940000)/",19900,100,103,2049700,0,false,0

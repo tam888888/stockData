@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NGC",142313,"/Date(1705044180000)/",1900,100,100,190000,0,false,0

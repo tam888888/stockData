@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HLR",131438,"/Date(1705040100000)/",15300,100,100,1530000,-2700,true,-15

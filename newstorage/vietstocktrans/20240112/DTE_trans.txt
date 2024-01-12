@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DTE",145954,"/Date(1705046400000)/",3400,1900,2200,7420000,400,false,13.33
+"DTE",101704,"/Date(1705029420000)/",3200,300,300,960000,200,false,6.67

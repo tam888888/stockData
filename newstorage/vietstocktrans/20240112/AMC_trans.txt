@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AMC",141355,"/Date(1705043635000)/",17600,100,100,1760000,-1200,false,-6.38

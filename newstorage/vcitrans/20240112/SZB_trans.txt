@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165165574,"SZB","1705025935","unknown","1000","31800","1000","2024-01-12T02:18:56.759Z","2024-01-12T02:18:56.759Z"

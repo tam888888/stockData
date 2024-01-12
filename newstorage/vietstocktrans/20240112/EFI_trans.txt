@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"EFI",111609,"/Date(1705032960000)/",1700,42,142,228800,200,false,13.33
+"EFI",105234,"/Date(1705031580000)/",1700,100,100,170000,200,false,13.33

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DC2",142518,"/Date(1705044317000)/",4700,100,1900,8390000,200,false,4.44
+"DC2",101108,"/Date(1705029068000)/",4400,1000,1800,7920000,-100,true,-2.22
+"DC2",100940,"/Date(1705028980000)/",4400,800,800,3520000,-100,true,-2.22

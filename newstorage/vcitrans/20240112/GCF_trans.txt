@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165556592,"GCF","1705042740","b","1300","15000","1300","2024-01-12T06:59:00.963Z","2024-01-12T06:59:00.963Z"

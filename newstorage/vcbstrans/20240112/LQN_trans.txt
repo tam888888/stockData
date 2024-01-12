@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"LQN","14:30:30",2,-0.2,500,500,

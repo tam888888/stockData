@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165684510,"DNM","1705045282","s","200","16000","200","2024-01-12T07:41:22.979Z","2024-01-12T07:41:22.979Z"

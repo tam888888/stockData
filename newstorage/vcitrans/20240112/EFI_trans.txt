@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165376869,"EFI","1705031554","b","100","1700","100","2024-01-12T03:52:35.840Z","2024-01-12T03:52:35.840Z"

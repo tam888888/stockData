@@ -1,0 +1,3 @@
+"symbol","time","price","change","vol","total","side"
+"BVL","13:00:59",12,0,100,700,
+"BVL","10:50:20",12,0,600,600,

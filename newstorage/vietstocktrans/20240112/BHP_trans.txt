@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BHP",142136,"/Date(1705044120000)/",6900,100,100,690000,-600,true,-8

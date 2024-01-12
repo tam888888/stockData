@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165580924,"GSM","1705043354","s","100","17500","100","2024-01-12T07:09:15.975Z","2024-01-12T07:09:15.975Z"

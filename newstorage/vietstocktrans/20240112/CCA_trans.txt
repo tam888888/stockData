@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CCA",92115,"/Date(1705026060000)/",13000,130000,130000,1690000000,-1000,false,-7.14

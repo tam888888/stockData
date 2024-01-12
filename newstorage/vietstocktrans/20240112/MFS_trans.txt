@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MFS",105951,"/Date(1705032000000)/",25000,100,400,9990000,0,false,0
+"MFS",105642,"/Date(1705031820000)/",25000,100,300,7490000,0,false,0
+"MFS",93531,"/Date(1705026960000)/",25000,100,200,4990000,0,false,0
+"MFS",93027,"/Date(1705026600000)/",24900,100,100,2490000,-100,false,-0.4

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"XHC",145243,"/Date(1705045980000)/",22000,100,100,2200000,-1400,true,-5.98

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MKV",140141,"/Date(1705042901000)/",8900,100,100,890000,-900,true,-9.18

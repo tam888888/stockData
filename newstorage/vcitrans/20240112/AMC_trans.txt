@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+165597251,"AMC","1705043635","unknown","100","17600","100","2024-01-12T07:13:56.966Z","2024-01-12T07:13:56.966Z"

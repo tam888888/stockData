@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TEL","14:16:22",12.8,0,500,500,
