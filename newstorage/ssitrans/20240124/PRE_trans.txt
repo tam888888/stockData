@@ -1,0 +1,4 @@
+"stockNo","price","vol","accumulatedVol","time","ref","side","priceChange","priceChangePercent","changeType","__typename"
+"hnx:79782",18000,100,400,"13:42:21",18100,"unknown",-100,-0.6,"D","LeTable"
+"hnx:79782",18300,100,300,"10:39:05",18100,"unknown",200,1.1,"U","LeTable"
+"hnx:79782",18300,200,200,"10:13:53",18100,"unknown",200,1.1,"U","LeTable"
